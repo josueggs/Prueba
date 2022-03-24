@@ -1,1 +1,1 @@
-PRINT("HELLO WORD");
+writeline("Hola");
